@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ankur5514
-- 👀 I’m interested in creating somthing out of scratch
-- 🌱 I’m currently learning best coding standerds
-- 💞️ I’m working with JavaScript
-- 📫 Mail: akurishwar89@gmail.com
+- 👀 I’m interested writing code
+- 🌱 I’m currently learning AWS and working on 2.0
+- 💞️ I’m working with JavaScript and python 
+- 📫 Mail: ankur@paragondatalabs.com
 
 <!---
 ankur5514/ankur5514 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
